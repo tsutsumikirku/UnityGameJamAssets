@@ -1,0 +1,2 @@
+# UnityGameJamAssets
+Unityのゲームジャムに必要だと感じたアセットを作っていくリポジトリ
